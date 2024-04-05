@@ -3,6 +3,8 @@
 ## About
 The AI Quiz App is a Streamlit web application that dynamically generates quizzes based on concepts in Artificial Intelligence, Machine Learning, Data Science, Large Language Models, Natural Language Processing, and Computer Vision. Users can input a topic and receive a customized quiz to test their knowledge, with the added capability to evaluate their answers upon completion.
 
+![AI Quiz App Screenshot](ai_quiz_app.png "AI Quiz App")
+
 ## Features
 - Generate quizzes with a specified number of questions based on a user-defined context.
 - Multiple choice questions are dynamically created using OpenAI's GPT-4 model.
